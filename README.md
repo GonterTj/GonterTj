@@ -1,2 +1,3 @@
-# Mainpage
-For my github page
+# Hi there!
+This is my portfolio!
+https://gontertj.github.io/My-Portfolio/
